@@ -10,3 +10,4 @@ wheels/
 .venv
 /answers
 *.db
+*_ans.py

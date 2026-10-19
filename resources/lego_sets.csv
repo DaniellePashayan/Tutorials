@@ -1,9 +1,9 @@
 set_id,name,year,theme,subtheme,themeGroup,category,pieces,minifigs,agerange_min,US_retailPrice,bricksetURL,thumbnailURL,imageURL
-8-Jan,Small house set,1970,Minitalia,,Vintage,Normal,67,,,,https://brickset.com/sets/1-8,https://images.brickset.com/sets/small/1-8.jpg,https://images.brickset.com/sets/images/1-8.jpg
-8-Feb,Medium house set,1970,Minitalia,,Vintage,Normal,109,,,,https://brickset.com/sets/2-8,https://images.brickset.com/sets/small/2-8.jpg,https://images.brickset.com/sets/images/2-8.jpg
-6-Mar,Medium house set,1970,Minitalia,,Vintage,Normal,158,,,,https://brickset.com/sets/3-6,https://images.brickset.com/sets/small/3-6.jpg,https://images.brickset.com/sets/images/3-6.jpg
-4-Apr,Large house set,1970,Minitalia,,Vintage,Normal,233,,,,https://brickset.com/sets/4-4,https://images.brickset.com/sets/small/4-4.jpg,https://images.brickset.com/sets/images/4-4.jpg
-6-Apr,Mini House and Vehicles,1970,Samsonite,Model Maker,Vintage,Normal,,,,,https://brickset.com/sets/4-6,,
+8-1,Small house set,1970,Minitalia,,Vintage,Normal,67,,,,https://brickset.com/sets/1-8,https://images.brickset.com/sets/small/1-8.jpg,https://images.brickset.com/sets/images/1-8.jpg
+8-2,Medium house set,1970,Minitalia,,Vintage,Normal,109,,,,https://brickset.com/sets/2-8,https://images.brickset.com/sets/small/2-8.jpg,https://images.brickset.com/sets/images/2-8.jpg
+6-3,Medium house set,1970,Minitalia,,Vintage,Normal,158,,,,https://brickset.com/sets/3-6,https://images.brickset.com/sets/small/3-6.jpg,https://images.brickset.com/sets/images/3-6.jpg
+4-4,Large house set,1970,Minitalia,,Vintage,Normal,233,,,,https://brickset.com/sets/4-4,https://images.brickset.com/sets/small/4-4.jpg,https://images.brickset.com/sets/images/4-4.jpg
+6-4,Mini House and Vehicles,1970,Samsonite,Model Maker,Vintage,Normal,,,,,https://brickset.com/sets/4-6,,
 078-1,Roadway Base Plate 50X50,1970,Samsonite,Supplemental,Vintage,Normal,1,,,,https://brickset.com/sets/078-1,https://images.brickset.com/sets/small/078-1.jpg,https://images.brickset.com/sets/images/078-1.jpg
 104-1,4.5V Replacement Motor,1970,Trains,Supplemental / 4.5V,Modern day,Normal,1,,,,https://brickset.com/sets/104-1,https://images.brickset.com/sets/small/104-1.jpg,https://images.brickset.com/sets/images/104-1.jpg
 126-1,Steam Locomotive (Push),1970,Trains,4.5v,Modern day,Normal,60,,,,https://brickset.com/sets/126-1,https://images.brickset.com/sets/small/126-1.jpg,https://images.brickset.com/sets/images/126-1.jpg
@@ -40,17 +40,17 @@ set_id,name,year,theme,subtheme,themeGroup,category,pieces,minifigs,agerange_min
 445A-1,Lighting Device Pack with Improved Plugs (The Building Toy),1970,System,Supplemental,Basic,Other,8,,,,https://brickset.com/sets/445A-1,https://images.brickset.com/sets/small/445A-1.jpg,https://images.brickset.com/sets/images/445A-1.jpg
 707A-1,12V Train Replacement Parts Retailer Pack,1970,Trains,Supplemental / 12V,Modern day,Other,,,,,https://brickset.com/sets/707A-1,https://images.brickset.com/sets/small/707A-1.jpg,https://images.brickset.com/sets/images/707A-1.jpg
 WEETABIX1-1,Weetabix Castle,1970,LEGOLAND,Promotional,Vintage,Other,471,,,,https://brickset.com/sets/WEETABIX1-1,https://images.brickset.com/sets/small/WEETABIX1-1.jpg,https://images.brickset.com/sets/images/WEETABIX1-1.jpg
-10-Jan,Mini-Wheel Model Maker No. 1 (Kraft Velveeta),1971,Samsonite,Model Maker,Vintage,Normal,86,,,,https://brickset.com/sets/1-10,https://images.brickset.com/sets/small/1-10.jpg,https://images.brickset.com/sets/images/1-10.jpg
-10-Feb,Mini-Wheel Model Maker No. 2 (Kraft Velveeta),1971,Samsonite,Model Maker,Vintage,Normal,74,,,,https://brickset.com/sets/2-10,https://images.brickset.com/sets/small/2-10.jpg,https://images.brickset.com/sets/images/2-10.jpg
-8-Mar,Mini-Wheel Model Maker No. 3 (Kraft Velveeta),1971,Samsonite,Model Maker,Vintage,Normal,65,,,,https://brickset.com/sets/3-8,https://images.brickset.com/sets/small/3-8.jpg,https://images.brickset.com/sets/images/3-8.jpg
-5-Apr,Mini-Wheel Model Maker Set 4 (Kraft Velveeta),1971,Samsonite,Model Maker,Vintage,Normal,,,,,https://brickset.com/sets/4-5,https://images.brickset.com/sets/small/4-5.jpg,https://images.brickset.com/sets/images/4-5.jpg
-4-May,Large house set,1971,Minitalia,,Vintage,Normal,307,,,,https://brickset.com/sets/5-4,https://images.brickset.com/sets/small/5-4.jpg,https://images.brickset.com/sets/images/5-4.jpg
-5-May,Mini-Wheel Model Maker Set 5 (Kraft Velveeta),1971,Samsonite,Model Maker,Vintage,Normal,2,,,,https://brickset.com/sets/5-5,https://images.brickset.com/sets/small/5-5.jpg,https://images.brickset.com/sets/images/5-5.jpg
-4-Jun,Promotional Basic Set No. 6 (Kraft Velveeta),1971,Samsonite,Basic set,Vintage,Normal,77,,,,https://brickset.com/sets/6-4,https://images.brickset.com/sets/small/6-4.jpg,https://images.brickset.com/sets/images/6-4.jpg
-5-Jul,Promotional Basic Set No. 7 (Kraft Velveeta),1971,Samsonite,Basic Set,Vintage,Normal,159,,,,https://brickset.com/sets/7-5,https://images.brickset.com/sets/small/7-5.jpg,https://images.brickset.com/sets/images/7-5.jpg
-4-Aug,Promotional Basic Set No. 8 (Kraft Velveeta),1971,Samsonite,Basic Set,Vintage,Normal,301,,,,https://brickset.com/sets/8-4,https://images.brickset.com/sets/small/8-4.jpg,https://images.brickset.com/sets/images/8-4.jpg
-2-Sep,Promotional Basic Set No. 9 (Kraft Velveeta),1971,Samsonite,Basic Set,Vintage,Normal,550,,,,https://brickset.com/sets/9-2,https://images.brickset.com/sets/small/9-2.jpg,https://images.brickset.com/sets/images/9-2.jpg
-3-Oct,Promotional Basic Set No. 10 (Kraft Velveeta),1971,Samsonite,Basic Set,Vintage,Normal,101,,,,https://brickset.com/sets/10-3,https://images.brickset.com/sets/small/10-2.jpg,https://images.brickset.com/sets/images/10-2.jpg
+10-1,Mini-Wheel Model Maker No. 1 (Kraft Velveeta),1971,Samsonite,Model Maker,Vintage,Normal,86,,,,https://brickset.com/sets/1-10,https://images.brickset.com/sets/small/1-10.jpg,https://images.brickset.com/sets/images/1-10.jpg
+10-2,Mini-Wheel Model Maker No. 2 (Kraft Velveeta),1971,Samsonite,Model Maker,Vintage,Normal,74,,,,https://brickset.com/sets/2-10,https://images.brickset.com/sets/small/2-10.jpg,https://images.brickset.com/sets/images/2-10.jpg
+8-3,Mini-Wheel Model Maker No. 3 (Kraft Velveeta),1971,Samsonite,Model Maker,Vintage,Normal,65,,,,https://brickset.com/sets/3-8,https://images.brickset.com/sets/small/3-8.jpg,https://images.brickset.com/sets/images/3-8.jpg
+5-4,Mini-Wheel Model Maker Set 4 (Kraft Velveeta),1971,Samsonite,Model Maker,Vintage,Normal,,,,,https://brickset.com/sets/4-5,https://images.brickset.com/sets/small/4-5.jpg,https://images.brickset.com/sets/images/4-5.jpg
+4-5,Large house set,1971,Minitalia,,Vintage,Normal,307,,,,https://brickset.com/sets/5-4,https://images.brickset.com/sets/small/5-4.jpg,https://images.brickset.com/sets/images/5-4.jpg
+5-5,Mini-Wheel Model Maker Set 5 (Kraft Velveeta),1971,Samsonite,Model Maker,Vintage,Normal,2,,,,https://brickset.com/sets/5-5,https://images.brickset.com/sets/small/5-5.jpg,https://images.brickset.com/sets/images/5-5.jpg
+4-6,Promotional Basic Set No. 6 (Kraft Velveeta),1971,Samsonite,Basic set,Vintage,Normal,77,,,,https://brickset.com/sets/6-4,https://images.brickset.com/sets/small/6-4.jpg,https://images.brickset.com/sets/images/6-4.jpg
+5-7,Promotional Basic Set No. 7 (Kraft Velveeta),1971,Samsonite,Basic Set,Vintage,Normal,159,,,,https://brickset.com/sets/7-5,https://images.brickset.com/sets/small/7-5.jpg,https://images.brickset.com/sets/images/7-5.jpg
+4-8,Promotional Basic Set No. 8 (Kraft Velveeta),1971,Samsonite,Basic Set,Vintage,Normal,301,,,,https://brickset.com/sets/8-4,https://images.brickset.com/sets/small/8-4.jpg,https://images.brickset.com/sets/images/8-4.jpg
+2-9,Promotional Basic Set No. 9 (Kraft Velveeta),1971,Samsonite,Basic Set,Vintage,Normal,550,,,,https://brickset.com/sets/9-2,https://images.brickset.com/sets/small/9-2.jpg,https://images.brickset.com/sets/images/9-2.jpg
+3-10,Promotional Basic Set No. 10 (Kraft Velveeta),1971,Samsonite,Basic Set,Vintage,Normal,101,,,,https://brickset.com/sets/10-3,https://images.brickset.com/sets/small/10-2.jpg,https://images.brickset.com/sets/images/10-2.jpg
 21-2,Truck,1971,Minitalia,,Vintage,Normal,33,,,,https://brickset.com/sets/21-2,https://images.brickset.com/sets/small/21-2.jpg,https://images.brickset.com/sets/images/21-2.jpg
 22-1,Car,1971,Minitalia,,Vintage,Normal,47,,,,https://brickset.com/sets/22-1,https://images.brickset.com/sets/small/22-1.jpg,https://images.brickset.com/sets/images/22-1.jpg
 23-1,Delivery truck,1971,Minitalia,,Vintage,Normal,64,,,,https://brickset.com/sets/23-1,https://images.brickset.com/sets/small/23-1.jpg,https://images.brickset.com/sets/images/23-1.jpg
@@ -163,17 +163,17 @@ SAMSONITE-1,1047 Piece Basic Set,1972,Samsonite,Basic set,Vintage,Other,1047,,,,
 SAMSONITE-10,846 Piece Basic Set,1972,Samsonite,Basic set,Vintage,Other,846,,,,https://brickset.com/sets/SAMSONITE-10,https://images.brickset.com/sets/small/SAMSONITE-10.jpg,https://images.brickset.com/sets/images/SAMSONITE-10.jpg
 SAMSONITE-16,395 Piece Basic Set,1972,Samsonite,Basic set,Vintage,Other,395,,,,https://brickset.com/sets/SAMSONITE-16,,
 SAMSONITE-17,665 Piece Basic Set,1972,Samsonite,Basic set,Vintage,Other,665,,,,https://brickset.com/sets/SAMSONITE-17,https://images.brickset.com/sets/small/SAMSONITE-17.jpg,https://images.brickset.com/sets/images/SAMSONITE-17.jpg
-7-Jan,Basic Set,1973,Universal Building Set,,Basic,Normal,107,,,,https://brickset.com/sets/1-7,https://images.brickset.com/sets/small/1-7.jpg,https://images.brickset.com/sets/images/1-7.jpg
-7-Feb,Basic Set,1973,Universal Building Set,,Basic,Normal,184,,,,https://brickset.com/sets/2-7,https://images.brickset.com/sets/small/2-7.jpg,https://images.brickset.com/sets/images/2-7.jpg
-4-Mar,Basic Set,1973,Universal Building Set,,Basic,Normal,184,,,,https://brickset.com/sets/3-4,https://images.brickset.com/sets/small/3-4.jpg,https://images.brickset.com/sets/images/3-4.jpg
-3-Apr,Basic Set,1973,Universal Building Set,,Basic,Normal,230,,,,https://brickset.com/sets/4-3,https://images.brickset.com/sets/small/4-3.jpg,https://images.brickset.com/sets/images/4-3.jpg
-3-May,Basic Set,1973,Universal Building Set,,Basic,Normal,349,,,,https://brickset.com/sets/5-3,https://images.brickset.com/sets/small/5-3.jpg,https://images.brickset.com/sets/images/5-3.jpg
-3-Jun,Basic Set,1973,Universal Building Set,,Basic,Normal,349,,,,https://brickset.com/sets/6-3,https://images.brickset.com/sets/small/6-3.jpg,https://images.brickset.com/sets/images/6-3.jpg
-3-Jul,Basic Set,1973,Universal Building Set,,Basic,Normal,415,,,,https://brickset.com/sets/7-3,https://images.brickset.com/sets/small/7-3.jpg,https://images.brickset.com/sets/images/7-3.jpg
-3-Aug,Basic Set #8,1973,Universal Building Set,,Basic,Normal,776,,,,https://brickset.com/sets/8-3,https://images.brickset.com/sets/small/8-3.jpg,https://images.brickset.com/sets/images/8-3.jpg
+7-1,Basic Set,1973,Universal Building Set,,Basic,Normal,107,,,,https://brickset.com/sets/1-7,https://images.brickset.com/sets/small/1-7.jpg,https://images.brickset.com/sets/images/1-7.jpg
+7-2,Basic Set,1973,Universal Building Set,,Basic,Normal,184,,,,https://brickset.com/sets/2-7,https://images.brickset.com/sets/small/2-7.jpg,https://images.brickset.com/sets/images/2-7.jpg
+4-3,Basic Set,1973,Universal Building Set,,Basic,Normal,184,,,,https://brickset.com/sets/3-4,https://images.brickset.com/sets/small/3-4.jpg,https://images.brickset.com/sets/images/3-4.jpg
+3-4,Basic Set,1973,Universal Building Set,,Basic,Normal,230,,,,https://brickset.com/sets/4-3,https://images.brickset.com/sets/small/4-3.jpg,https://images.brickset.com/sets/images/4-3.jpg
+3-5,Basic Set,1973,Universal Building Set,,Basic,Normal,349,,,,https://brickset.com/sets/5-3,https://images.brickset.com/sets/small/5-3.jpg,https://images.brickset.com/sets/images/5-3.jpg
+3-6,Basic Set,1973,Universal Building Set,,Basic,Normal,349,,,,https://brickset.com/sets/6-3,https://images.brickset.com/sets/small/6-3.jpg,https://images.brickset.com/sets/images/6-3.jpg
+3-7,Basic Set,1973,Universal Building Set,,Basic,Normal,415,,,,https://brickset.com/sets/7-3,https://images.brickset.com/sets/small/7-3.jpg,https://images.brickset.com/sets/images/7-3.jpg
+3-8,Basic Set #8,1973,Universal Building Set,,Basic,Normal,776,,,,https://brickset.com/sets/8-3,https://images.brickset.com/sets/small/8-3.jpg,https://images.brickset.com/sets/images/8-3.jpg
 010-2,Pre-School Set,1973,Duplo,,Pre-school,Normal,17,,,,https://brickset.com/sets/010-2,,
-2-Nov,Small pre-school set,1973,Minitalia,,Vintage,Normal,32,,,,https://brickset.com/sets/11-2,https://images.brickset.com/sets/small/11-2.jpg,https://images.brickset.com/sets/images/11-2.jpg
-2-Dec,Medium pre-school set,1973,Minitalia,,Vintage,Normal,70,,,,https://brickset.com/sets/12-2,https://images.brickset.com/sets/small/12-2.jpg,https://images.brickset.com/sets/images/12-2.jpg
+2-11,Small pre-school set,1973,Minitalia,,Vintage,Normal,32,,,,https://brickset.com/sets/11-2,https://images.brickset.com/sets/small/11-2.jpg,https://images.brickset.com/sets/images/11-2.jpg
+2-12,Medium pre-school set,1973,Minitalia,,Vintage,Normal,70,,,,https://brickset.com/sets/12-2,https://images.brickset.com/sets/small/12-2.jpg,https://images.brickset.com/sets/images/12-2.jpg
 13-2,Large pre-school set,1973,Minitalia,,Vintage,Normal,92,,,,https://brickset.com/sets/13-2,https://images.brickset.com/sets/small/13-2.jpg,https://images.brickset.com/sets/images/13-2.jpg
 14-3,Small house set,1973,Minitalia,,Vintage,Normal,,,,,https://brickset.com/sets/14-3,https://images.brickset.com/sets/small/14-3.jpg,https://images.brickset.com/sets/images/14-3.jpg
 15-2,Large house set,1973,Minitalia,,Vintage,Normal,157,,,,https://brickset.com/sets/15-2,https://images.brickset.com/sets/small/15-2.jpg,https://images.brickset.com/sets/images/15-2.jpg
@@ -324,7 +324,7 @@ SAMSONITE-12,88 Piece Set,1973,Samsonite,Basic set,Vintage,Other,88,,,,https://b
 814-2,Tractor,1975,Building Set with People,,Vintage,Normal,93,,,,https://brickset.com/sets/814-2,https://images.brickset.com/sets/small/814-2.jpg,https://images.brickset.com/sets/images/814-2.jpg
 BB173-1,Holdall Storage Bag,1975,Gear,Storage,Miscellaneous,Gear,,,,,https://brickset.com/sets/BB173-1,,
 SUPSET1-1,Super Set,1975,Universal Building Set,,Basic,Other,,,,,https://brickset.com/sets/SUPSET1-1,,
-2-Oct,"Basic Building Set, 3+",1976,Basic,,Basic,Normal,152,,,,https://brickset.com/sets/10-2,https://images.brickset.com/sets/small/10-2.jpg,https://images.brickset.com/sets/images/10-2.jpg
+2-10,"Basic Building Set, 3+",1976,Basic,,Basic,Normal,152,,,,https://brickset.com/sets/10-2,https://images.brickset.com/sets/small/10-2.jpg,https://images.brickset.com/sets/images/10-2.jpg
 20-1,"Basic Building Set, 3+",1976,Basic,,Basic,Normal,217,,,,https://brickset.com/sets/20-1,https://images.brickset.com/sets/small/20-1.jpg,https://images.brickset.com/sets/images/20-1.jpg
 30-1,"Basic Building Set, 3+",1976,Basic,,Basic,Normal,258,,,,https://brickset.com/sets/30-1,https://images.brickset.com/sets/small/30-1.jpg,https://images.brickset.com/sets/images/30-1.jpg
 40-1,"Basic Building Set, 3+",1976,Basic,,Basic,Normal,258,,,,https://brickset.com/sets/40-1,https://images.brickset.com/sets/small/40-1.jpg,https://images.brickset.com/sets/images/40-1.jpg
@@ -400,8 +400,8 @@ SUPSET1-1,Super Set,1975,Universal Building Set,,Basic,Other,,,,,https://brickse
 WEETABIX2-1,Windmill,1976,Basic,,Basic,Other,119,,,,https://brickset.com/sets/WEETABIX2-1,https://images.brickset.com/sets/small/WEETABIX2-1.jpg,https://images.brickset.com/sets/images/WEETABIX2-1.jpg
 WEETABIX3-1,House,1976,Basic,,Basic,Other,140,2,,,https://brickset.com/sets/WEETABIX3-1,https://images.brickset.com/sets/small/WEETABIX3-1.jpg,https://images.brickset.com/sets/images/WEETABIX3-1.jpg
 WEETABIX4-1,House,1976,Basic,,Basic,Other,143,2,,,https://brickset.com/sets/WEETABIX4-1,https://images.brickset.com/sets/small/WEETABIX4-1.jpg,https://images.brickset.com/sets/images/WEETABIX4-1.jpg
-12-Jan,Small basic set,1977,Minitalia,,Vintage,Normal,91,,,,https://brickset.com/sets/1-12,https://images.brickset.com/sets/small/1-12.jpg,https://images.brickset.com/sets/images/1-12.jpg
-11-Feb,Medium basic set,1977,Minitalia,,Vintage,Normal,128,,,,https://brickset.com/sets/2-11,https://images.brickset.com/sets/small/2-11.jpg,https://images.brickset.com/sets/images/2-11.jpg
+12-1,Small basic set,1977,Minitalia,,Vintage,Normal,91,,,,https://brickset.com/sets/1-12,https://images.brickset.com/sets/small/1-12.jpg,https://images.brickset.com/sets/images/1-12.jpg
+11-2,Medium basic set,1977,Minitalia,,Vintage,Normal,128,,,,https://brickset.com/sets/2-11,https://images.brickset.com/sets/small/2-11.jpg,https://images.brickset.com/sets/images/2-11.jpg
 085-1,Racer,1977,PreSchool,,Pre-school,Normal,4,1,,,https://brickset.com/sets/085-1,,
 087-1,Taxi,1977,PreSchool,,Pre-school,Normal,5,1,,,https://brickset.com/sets/087-1,,
 88-1,Camping,1977,PreSchool,,Pre-school,Normal,9,,,,https://brickset.com/sets/88-1,,
@@ -474,9 +474,9 @@ WEETABIX4-1,House,1976,Basic,,Basic,Other,143,2,,,https://brickset.com/sets/WEET
 1575-1,Finnjet Ferry,1977,Promotional,Ferries,Miscellaneous,Normal,506,,,,https://brickset.com/sets/1575-1,https://images.brickset.com/sets/small/1575-1.jpg,https://images.brickset.com/sets/images/1575-1.jpg
 1580-2,Silja Line Ferry,1977,Promotional,Ferries,Miscellaneous,Normal,414,,,,https://brickset.com/sets/1580-2,https://images.brickset.com/sets/small/1580-2.jpg,https://images.brickset.com/sets/images/1580-2.jpg
 98959-1,Motor set,1977,Technic,,Technical,Normal,40,,,,https://brickset.com/sets/98959-1,,
-1-Jul,"Basic Building Set, 3+",1978,Basic,,Basic,Normal,64,,,,https://brickset.com/sets/7-1,https://images.brickset.com/sets/small/7-1.jpg,https://images.brickset.com/sets/images/7-1.jpg
-1-Aug,"Basic Building Set, 3+",1978,Basic,,Basic,Normal,93,,,,https://brickset.com/sets/8-1,https://images.brickset.com/sets/small/8-1.jpg,https://images.brickset.com/sets/images/8-1.jpg
-1-Sep,"Basic Building Set, 3+",1978,Basic,,Basic,Normal,116,,,,https://brickset.com/sets/9-1,https://images.brickset.com/sets/small/9-1.jpg,https://images.brickset.com/sets/images/9-1.jpg
+1-7,"Basic Building Set, 3+",1978,Basic,,Basic,Normal,64,,,,https://brickset.com/sets/7-1,https://images.brickset.com/sets/small/7-1.jpg,https://images.brickset.com/sets/images/7-1.jpg
+1-8,"Basic Building Set, 3+",1978,Basic,,Basic,Normal,93,,,,https://brickset.com/sets/8-1,https://images.brickset.com/sets/small/8-1.jpg,https://images.brickset.com/sets/images/8-1.jpg
+1-9,"Basic Building Set, 3+",1978,Basic,,Basic,Normal,116,,,,https://brickset.com/sets/9-1,https://images.brickset.com/sets/small/9-1.jpg,https://images.brickset.com/sets/images/9-1.jpg
 061-2,Puppy,1978,PreSchool,,Pre-school,Normal,8,,,,https://brickset.com/sets/061-2,,
 063-2,Ducks,1978,PreSchool,,Pre-school,Normal,5,,,,https://brickset.com/sets/063-2,,
 086-1,Tub Boat,1978,PreSchool,,Pre-school,Normal,3,1,,,https://brickset.com/sets/086-1,,
@@ -768,7 +768,7 @@ WEETABIX4-1,House,1976,Basic,,Basic,Other,143,2,,,https://brickset.com/sets/WEET
 8860-1,Car Chassis,1980,Technic,,Technical,Normal,668,,,,https://brickset.com/sets/8860-1,https://images.brickset.com/sets/small/8860-1.jpg,https://images.brickset.com/sets/images/8860-1.jpg
 8888-1,Ideas Book,1980,Books,LEGO,Miscellaneous,Book,,,,,https://brickset.com/sets/8888-1,https://images.brickset.com/sets/small/8888-1.jpg,https://images.brickset.com/sets/images/8888-1.jpg
 KCP03-1,WWF Female Minifigure Key Chain,1980,Gear,Key Chains/Promotional,Miscellaneous,Gear,,,,,https://brickset.com/sets/KCP03-1,,
-11-Jan,Basic Souvenir Box,1981,Basic,,Basic,Normal,38,,,,https://brickset.com/sets/1-11,https://images.brickset.com/sets/small/1-11.jpg,https://images.brickset.com/sets/images/1-11.jpg
+11-1,Basic Souvenir Box,1981,Basic,,Basic,Normal,38,,,,https://brickset.com/sets/1-11,https://images.brickset.com/sets/small/1-11.jpg,https://images.brickset.com/sets/images/1-11.jpg
 226-2,Building Ideas Book,1981,Books,LEGO,Miscellaneous,Book,,,,,https://brickset.com/sets/226-2,https://images.brickset.com/sets/small/226-2.jpg,https://images.brickset.com/sets/images/226-2.jpg
 322-1,Basic Set,1981,Basic,,Basic,Normal,53,,,,https://brickset.com/sets/322-1,https://images.brickset.com/sets/small/322-1.jpg,https://images.brickset.com/sets/images/322-1.jpg
 333-1,Basic Set,1981,Basic,,Basic,Normal,98,2,,,https://brickset.com/sets/333-1,https://images.brickset.com/sets/small/333-1.jpg,https://images.brickset.com/sets/images/333-1.jpg
@@ -10126,8 +10126,8 @@ WOODLANDS-1,Woodlands Exclusive Minifigure Pack,2012,Promotional,LEGO brand stor
 30184-1,Little Helicopter,2013,Creator,Miscellaneous,Model making,Normal,56,,6,,https://brickset.com/sets/30184-1,https://images.brickset.com/sets/small/30184-1.jpg,https://images.brickset.com/sets/images/30184-1.jpg
 30185-1,Little Eagle,2013,Creator,Promotional,Model making,Normal,48,,6,,https://brickset.com/sets/30185-1,https://images.brickset.com/sets/small/30185-1.jpg,https://images.brickset.com/sets/images/30185-1.jpg
 30186-1,Christmas Tree,2013,Creator,Seasonal,Model making,Normal,51,,6,,https://brickset.com/sets/30186-1,https://images.brickset.com/sets/small/30186-1.jpg,https://images.brickset.com/sets/images/30186-1.jpg
-30215-1,Legolas Greenleaf,2013,The Hobbit,The Desolation of Smaug,Licensed,Normal,33,1,6,,https://brickset.com/sets/30215-1,https://images.brickset.com/sets/small/30215-1.jpg,https://images.brickset.com/sets/images/30215-1.jpg
-30216-1,Lake-town Guard,2013,The Hobbit,The Desolation of Smaug,Licensed,Normal,31,1,6,,https://brickset.com/sets/30216-1,https://images.brickset.com/sets/small/30216-1.jpg,https://images.brickset.com/sets/images/30216-1.jpg
+30215-1,Legolas Greenleaf,2013,The Hobbit,The Desolation of Sm8,Licensed,Normal,33,1,6,,https://brickset.com/sets/30215-1,https://images.brickset.com/sets/small/30215-1.jpg,https://images.brickset.com/sets/images/30215-1.jpg
+30216-1,Lake-town Guard,2013,The Hobbit,The Desolation of Sm8,Licensed,Normal,31,1,6,,https://brickset.com/sets/30216-1,https://images.brickset.com/sets/small/30216-1.jpg,https://images.brickset.com/sets/images/30216-1.jpg
 30220-1,Fire Speedboat,2013,City,Fire,Modern day,Normal,40,1,5,,https://brickset.com/sets/30220-1,https://images.brickset.com/sets/small/30220-1.jpg,https://images.brickset.com/sets/images/30220-1.jpg
 30221-1,Fire Car,2013,City,Fire,Modern day,Normal,36,1,5,,https://brickset.com/sets/30221-1,https://images.brickset.com/sets/small/30221-1.jpg,https://images.brickset.com/sets/images/30221-1.jpg
 30222-1,Police Helicopter,2013,City,Police,Modern day,Normal,33,1,5,,https://brickset.com/sets/30222-1,https://images.brickset.com/sets/small/30222-1.jpg,https://images.brickset.com/sets/images/30222-1.jpg
@@ -10480,10 +10480,10 @@ WOODLANDS-1,Woodlands Exclusive Minifigure Pack,2012,Promotional,LEGO brand stor
 79006-1,The Council of Elrond,2013,The Lord of the Rings,The Fellowship of the Ring,Licensed,Normal,243,4,8,29.99,https://brickset.com/sets/79006-1,https://images.brickset.com/sets/small/79006-1.jpg,https://images.brickset.com/sets/images/79006-1.jpg
 79007-1,Battle at the Black Gate,2013,The Lord of the Rings,The Return of the King,Licensed,Normal,656,5,9,59.99,https://brickset.com/sets/79007-1,https://images.brickset.com/sets/small/79007-1.jpg,https://images.brickset.com/sets/images/79007-1.jpg
 79008-1,Pirate Ship Ambush,2013,The Lord of the Rings,The Return of the King,Licensed,Normal,756,9,9,99.99,https://brickset.com/sets/79008-1,https://images.brickset.com/sets/small/79008-1.jpg,https://images.brickset.com/sets/images/79008-1.jpg
-79011-1,Dol Guldur Ambush,2013,The Hobbit,The Desolation of Smaug,Licensed,Normal,217,3,8,19.99,https://brickset.com/sets/79011-1,https://images.brickset.com/sets/small/79011-1.jpg,https://images.brickset.com/sets/images/79011-1.jpg
-79012-1,Mirkwood Elf Army ,2013,The Hobbit,The Desolation of Smaug,Licensed,Normal,276,6,8,29.99,https://brickset.com/sets/79012-1,https://images.brickset.com/sets/small/79012-1.jpg,https://images.brickset.com/sets/images/79012-1.jpg
-79013-1,Lake-town Chase,2013,The Hobbit,The Desolation of Smaug,Licensed,Normal,470,5,8,49.99,https://brickset.com/sets/79013-1,https://images.brickset.com/sets/small/79013-1.jpg,https://images.brickset.com/sets/images/79013-1.jpg
-79014-1,Dol Guldur Battle,2013,The Hobbit,The Desolation of Smaug,Licensed,Normal,797,8,9,69.99,https://brickset.com/sets/79014-1,https://images.brickset.com/sets/small/79014-1.jpg,https://images.brickset.com/sets/images/79014-1.jpg
+79011-1,Dol Guldur Ambush,2013,The Hobbit,The Desolation of Sm8,Licensed,Normal,217,3,8,19.99,https://brickset.com/sets/79011-1,https://images.brickset.com/sets/small/79011-1.jpg,https://images.brickset.com/sets/images/79011-1.jpg
+79012-1,Mirkwood Elf Army ,2013,The Hobbit,The Desolation of Sm8,Licensed,Normal,276,6,8,29.99,https://brickset.com/sets/79012-1,https://images.brickset.com/sets/small/79012-1.jpg,https://images.brickset.com/sets/images/79012-1.jpg
+79013-1,Lake-town Chase,2013,The Hobbit,The Desolation of Sm8,Licensed,Normal,470,5,8,49.99,https://brickset.com/sets/79013-1,https://images.brickset.com/sets/small/79013-1.jpg,https://images.brickset.com/sets/images/79013-1.jpg
+79014-1,Dol Guldur Battle,2013,The Hobbit,The Desolation of Sm8,Licensed,Normal,797,8,9,69.99,https://brickset.com/sets/79014-1,https://images.brickset.com/sets/small/79014-1.jpg,https://images.brickset.com/sets/images/79014-1.jpg
 79100-1,Kraang Lab Escape,2013,Teenage Mutant Ninja Turtles,TV Series,Licensed,Normal,90,2,5,12.99,https://brickset.com/sets/79100-1,https://images.brickset.com/sets/small/79100-1.jpg,https://images.brickset.com/sets/images/79100-1.jpg
 79101-1,Shredder's Dragon Bike,2013,Teenage Mutant Ninja Turtles,TV Series,Licensed,Normal,198,3,6,24.99,https://brickset.com/sets/79101-1,https://images.brickset.com/sets/small/79101-1.jpg,https://images.brickset.com/sets/images/79101-1.jpg
 79102-1,Stealth Shell in Pursuit,2013,Teenage Mutant Ninja Turtles,TV Series,Licensed,Normal,162,3,6,19.99,https://brickset.com/sets/79102-1,https://images.brickset.com/sets/small/79102-1.jpg,https://images.brickset.com/sets/images/79102-1.jpg
@@ -10687,7 +10687,7 @@ COMCON032-1,Jek-14 Mini Stealth Starfighter,2013,Star Wars,Promotional,Licensed,
 COMCON033-1,Micro Scale Bag End,2013,The Hobbit,An Unexpected Journey,Licensed,Other,130,1,8,,https://brickset.com/sets/COMCON033-1,https://images.brickset.com/sets/small/COMCON033-1.jpg,https://images.brickset.com/sets/images/COMCON033-1.jpg
 DESPERES-1,"Des Peres, Exclusive Minifigure Pack",2013,Promotional,LEGO brand store opening set,Miscellaneous,Other,16,,,,https://brickset.com/sets/DESPERES-1,https://images.brickset.com/sets/small/DESPERES-1.jpg,https://images.brickset.com/sets/images/DESPERES-1.jpg
 EDMONTON-1,Edmonton Exclusive Minifigure Pack,2013,Promotional,LEGO brand store opening set,Miscellaneous,Other,,,,,https://brickset.com/sets/EDMONTON-1,https://images.brickset.com/sets/small/EDMONTON-1.jpg,https://images.brickset.com/sets/images/EDMONTON-1.jpg
-ELF-1,Mirkwood Elf,2013,The Hobbit,The Desolation of Smaug,Licensed,Other,6,1,,,https://brickset.com/sets/ELF-1,https://images.brickset.com/sets/small/ELF-1.jpg,https://images.brickset.com/sets/images/ELF-1.jpg
+ELF-1,Mirkwood Elf,2013,The Hobbit,The Desolation of Sm8,Licensed,Other,6,1,,,https://brickset.com/sets/ELF-1,https://images.brickset.com/sets/small/ELF-1.jpg,https://images.brickset.com/sets/images/ELF-1.jpg
 EV3MEG-1,EV3 MEG Mini,2013,Mindstorms,EV3,Technical,Other,,,,,https://brickset.com/sets/EV3MEG-1,https://images.brickset.com/sets/small/EV3MEG-1.jpg,https://images.brickset.com/sets/images/EV3MEG-1.jpg
 FREEHOLD-1,Freehold Exclusive Minifigure Pack,2013,Promotional,LEGO brand store opening set,Miscellaneous,Other,,,,,https://brickset.com/sets/FREEHOLD-1,https://images.brickset.com/sets/small/FREEHOLD-1.jpg,https://images.brickset.com/sets/images/FREEHOLD-1.jpg
 GLASGOW-1,"Glasgow, UK Exclusive Minifigure Pack",2013,Promotional,LEGO brand store opening set,Miscellaneous,Other,15,3,,,https://brickset.com/sets/GLASGOW-1,https://images.brickset.com/sets/small/GLASGOW-1.jpg,https://images.brickset.com/sets/images/GLASGOW-1.jpg
@@ -12641,7 +12641,7 @@ WHITEHOUSE-1,Micro White House,2015,Promotional,Miscellaneous,Miscellaneous,Othe
 70335-1,Ultimate Lavaria,2016,Nexo Knights,Ultimate,Action/Adventure,Normal,69,1,7,9.99,https://brickset.com/sets/70335-1,https://images.brickset.com/sets/small/70335-1.jpg,https://images.brickset.com/sets/images/70335-1.jpg
 70336-1,Ultimate Axl,2016,Nexo Knights,Ultimate,Action/Adventure,Normal,69,1,8,9.99,https://brickset.com/sets/70336-1,https://images.brickset.com/sets/small/70336-1.jpg,https://images.brickset.com/sets/images/70336-1.jpg
 70337-1,Ultimate Lance,2016,Nexo Knights,Ultimate,Action/Adventure,Normal,75,1,7,9.99,https://brickset.com/sets/70337-1,https://images.brickset.com/sets/small/70337-1.jpg,https://images.brickset.com/sets/images/70337-1.jpg
-70338-1,Ultimate General Magmar,2016,Nexo Knights,Ultimate,Action/Adventure,Normal,64,1,7,9.99,https://brickset.com/sets/70338-1,https://images.brickset.com/sets/small/70338-1.jpg,https://images.brickset.com/sets/images/70338-1.jpg
+70338-1,Ultimate General Mag3,2016,Nexo Knights,Ultimate,Action/Adventure,Normal,64,1,7,9.99,https://brickset.com/sets/70338-1,https://images.brickset.com/sets/small/70338-1.jpg,https://images.brickset.com/sets/images/70338-1.jpg
 70339-1,Ultimate Flama,2016,Nexo Knights,Ultimate,Action/Adventure,Normal,67,1,7,9.99,https://brickset.com/sets/70339-1,https://images.brickset.com/sets/small/70339-1.jpg,https://images.brickset.com/sets/images/70339-1.jpg
 70588-1,Titanium Ninja Tumbler ,2016,Ninjago,Day of the Departed,Action/Adventure,Normal,342,3,7,29.99,https://brickset.com/sets/70588-1,https://images.brickset.com/sets/small/70588-1.jpg,https://images.brickset.com/sets/images/70588-1.jpg
 70589-1,Rock Roader,2016,Ninjago,Day of the Departed,Action/Adventure,Normal,406,4,8,39.99,https://brickset.com/sets/70589-1,https://images.brickset.com/sets/small/70589-1.jpg,https://images.brickset.com/sets/images/70589-1.jpg
