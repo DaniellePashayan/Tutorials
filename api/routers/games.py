@@ -4,7 +4,7 @@ from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy import func, nullslast, select  
 from sqlalchemy.orm import Session
 
-from api.dependencies import GameFilters, Paging, Sorting  
+from api.dependencies import GameFilters, Paging, Sorting, require_admin  
 from api.schemas import GameOut, GamePage  
 from database.db import get_db  
 from database.models import Game
@@ -51,4 +51,18 @@ def get_game(game_id: int, db: DbSession):
     game = db.get(Game, game_id)  
     if game is None:  
         raise HTTPException(status_code=404, detail="Game not found")  
-    return game  
+    return game
+
+@router.delete(
+    "/{game_id}",
+    response_model=GameOut,
+    responses={404: {"description": "Game not found"}},
+    dependencies=[Depends(require_admin)],
+)
+def delete_game(game_id: int, db: DbSession):
+    game = db.get(Game, game_id)
+    if game is None:
+        raise HTTPException(status_code=404, detail="Game not found")
+    db.delete(game)
+    db.commit()
+    return game

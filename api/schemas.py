@@ -1,4 +1,4 @@
-from datetime import date  
+from datetime import date, datetime  
 from typing import Optional, List  
 from pydantic import BaseModel, ConfigDict, Field
 
@@ -47,6 +47,8 @@ class FacetBundle(BaseModel):
 class Token(BaseModel):  
     access_token: str  
     token_type: str = "bearer"
+    expires_in: int
+    expires_at: datetime
 
 
 class UserRead(BaseModel):  
@@ -56,3 +58,4 @@ class UserRead(BaseModel):
     username: str  
     full_name: str | None = None  
     disabled: bool 
+    is_admin: bool = False

@@ -40,3 +40,4 @@ class User(Base):
     hashed_password: Mapped[str] = mapped_column(String)  
     full_name: Mapped[str | None] = mapped_column(String, nullable=True)  
     disabled: Mapped[bool] = mapped_column(Boolean, default=False)  
+    is_admin: Mapped[bool] = mapped_column(Boolean, default=False)  

@@ -1,4 +1,10 @@
 from pathlib import Path
+import sys
+
+# Allow running this file directly from any working directory
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+if str(PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(PROJECT_ROOT))
 
 import pandas as pd
 from sqlalchemy import text
@@ -35,11 +41,23 @@ def populate_db() -> None:
         full_name="Fake User",
         hashed_password=hash_password("password"),
         disabled=False,
+        is_admin=False,
     )
     with Session(engine) as session:
         session.add(fake_user)
         session.commit()
-
+        
+    admin_user = User(
+        username="admin",
+        full_name="Admin User",
+        hashed_password=hash_password("adminpassword"),
+        disabled=False,
+        is_admin=True,
+    )
+    
+    with Session(engine) as session:
+        session.add(admin_user)
+        session.commit()
 
 def reset_db() -> None:
     drop_and_create_db()
