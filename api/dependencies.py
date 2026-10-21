@@ -24,7 +24,7 @@ SORT_COLUMNS = {
 
 
 def game_filters(  
-    q: Annotated[Optional[str], Query(description="Substring match on title")] = None,  
+    title: Annotated[Optional[str], Query(description="Substring match on title")] = None,  
     console: Annotated[Optional[List[str]], Query()] = None,  
     genre: Annotated[Optional[List[str]], Query()] = None,  
     publisher: Optional[str] = None,  
@@ -37,8 +37,8 @@ def game_filters(
 ) -> list:  
     """Collect query params into a list of SQLAlchemy conditions."""  
     conditions = []  
-    if q:  
-        conditions.append(Game.title.ilike(f"%{q}%"))  
+    if title:  
+        conditions.append(Game.title.ilike(f"%{title}%"))  
     if console:  
         conditions.append(Game.console.in_(console))  
     if genre:  
