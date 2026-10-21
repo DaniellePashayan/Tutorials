@@ -43,3 +43,16 @@ class FacetBundle(BaseModel):
     publishers: List[FacetCount]  
     developers: List[FacetCount]  
     total_games: int  
+
+class Token(BaseModel):  
+    access_token: str  
+    token_type: str = "bearer"
+
+
+class UserRead(BaseModel):  
+    model_config = ConfigDict(from_attributes=True)
+
+    id: int  
+    username: str  
+    full_name: str | None = None  
+    disabled: bool 

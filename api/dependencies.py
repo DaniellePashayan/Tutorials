@@ -1,9 +1,13 @@
 from datetime import date  
 from typing import Annotated, List, Optional
+from fastapi import Depends, HTTPException, Query, status
+from fastapi.security import OAuth2PasswordBearer  
+from sqlalchemy.orm import Session
+import jwt
 
-from fastapi import Depends, HTTPException, Query
-
-from database.models import Game
+from database.models import Game, User
+from core.security import decode_access_token  
+from database.db import get_db  
 
 SORT_COLUMNS = {  
     "title": Game.title,  
@@ -82,3 +86,30 @@ def sort_params(
 GameFilters = Annotated[list, Depends(game_filters)]  
 Paging = Annotated[Pagination, Depends()]  
 Sorting = Annotated[tuple, Depends(sort_params)]  
+
+oauth2_scheme = OAuth2PasswordBearer(tokenUrl="token")
+
+DbSession = Annotated[Session, Depends(get_db)]
+
+
+def get_current_user(  
+    token: Annotated[str, Depends(oauth2_scheme)],  
+    db: DbSession,  
+) -> User:  
+    cred_error = HTTPException(  
+        status_code=status.HTTP_401_UNAUTHORIZED,  
+        detail="Could not validate credentials",  
+        headers={"WWW-Authenticate": "Bearer"},  
+    )  
+    try:  
+        username = decode_access_token(token).get("sub")  
+    except jwt.InvalidTokenError:   # type: ignore
+        raise cred_error
+
+    user = db.query(User).filter(User.username == username).first()  
+    if user is None or user.disabled:  
+        raise cred_error  
+    return user
+
+
+CurrentUser = Annotated[User, Depends(get_current_user)]  

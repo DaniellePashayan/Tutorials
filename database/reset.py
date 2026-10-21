@@ -4,8 +4,9 @@ import pandas as pd
 from sqlalchemy import text
 from sqlalchemy.orm import Session
 
+from core.security import hash_password
 from database.db import engine
-from database.models import Base, Game
+from database.models import Base, Game, User
 
 
 CSV_PATH = Path(__file__).resolve().parent / "video_games_data.csv"
@@ -26,6 +27,17 @@ def populate_db() -> None:
 
     with Session(engine) as session:
         session.add_all(game_rows)
+        session.commit()
+    
+    # create a fake user
+    fake_user = User(
+        username="fakeuser",
+        full_name="Fake User",
+        hashed_password=hash_password("password"),
+        disabled=False,
+    )
+    with Session(engine) as session:
+        session.add(fake_user)
         session.commit()
 
 

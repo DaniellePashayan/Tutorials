@@ -1,5 +1,5 @@
-from sqlalchemy import Integer, String, Float, Column, MetaData, Index
-from sqlalchemy.orm import DeclarativeBase
+from sqlalchemy import Boolean, Integer, String, Float, Column, MetaData, Index
+from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column
 
 metadata = MetaData()
 
@@ -31,3 +31,12 @@ class Game(Base):
 
     def __repr__(self):
         return f"<VideoGame(name={self.title}, console={self.console}, release_date={self.release_date}, genre={self.genre}, rating={self.critic_score})>"
+    
+class User(Base):  
+    __tablename__ = "users"
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True)  
+    username: Mapped[str] = mapped_column(String, unique=True, index=True)  
+    hashed_password: Mapped[str] = mapped_column(String)  
+    full_name: Mapped[str | None] = mapped_column(String, nullable=True)  
+    disabled: Mapped[bool] = mapped_column(Boolean, default=False)  
