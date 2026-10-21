@@ -8,7 +8,7 @@ from api.schemas import Token, UserRead
 from core.security import create_access_token, verify_password  
 from database.models import User
 
-router = APIRouter(tags=["auth"])
+router = APIRouter(prefix="/auth", tags=["auth"])
 
 
 @router.post("/token", response_model=Token)  

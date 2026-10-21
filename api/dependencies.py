@@ -87,7 +87,7 @@ GameFilters = Annotated[list, Depends(game_filters)]
 Paging = Annotated[Pagination, Depends()]  
 Sorting = Annotated[tuple, Depends(sort_params)]  
 
-oauth2_scheme = OAuth2PasswordBearer(tokenUrl="token")
+oauth2_scheme = OAuth2PasswordBearer(tokenUrl="/auth/token")
 
 DbSession = Annotated[Session, Depends(get_db)]
 

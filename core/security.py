@@ -23,10 +23,10 @@ def create_access_token(subject: str) -> str:
         "exp": datetime.now(timezone.utc)  
                + timedelta(minutes=s.access_token_ttl_minutes),  
     }  
-    return jwt.encode(payload, s.jwt_secret, algorithm=s.jwt_algorithm) # type: ignore
+    return jwt.encode(payload, s.jwt_secret, algorithm=s.jwt_algorithm)
 
 
 def decode_access_token(token: str) -> dict:  
     """Raises JWT decode errors on anything suspicious."""  
     s = get_settings()  
-    return jwt.decode(token, s.jwt_secret, algorithms=[s.jwt_algorithm])   # type: ignore
+    return jwt.decode(token, s.jwt_secret, algorithms=[s.jwt_algorithm])  
