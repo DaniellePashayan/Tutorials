@@ -1,6 +1,6 @@
 from typing import Annotated
 
-from fastapi import APIRouter, Depends, HTTPException  
+from fastapi import APIRouter, Depends, HTTPException, status
 from sqlalchemy import func, nullslast, select  
 from sqlalchemy.orm import Session
 
@@ -55,9 +55,9 @@ def get_game(game_id: int, db: DbSession):
 
 @router.delete(
     "/{game_id}",
-    response_model=GameOut,
     responses={404: {"description": "Game not found"}},
     dependencies=[Depends(require_admin)],
+    status_code=status.HTTP_204_NO_CONTENT
 )
 def delete_game(game_id: int, db: DbSession):
     game = db.get(Game, game_id)
@@ -65,4 +65,4 @@ def delete_game(game_id: int, db: DbSession):
         raise HTTPException(status_code=404, detail="Game not found")
     db.delete(game)
     db.commit()
-    return game
+    return
