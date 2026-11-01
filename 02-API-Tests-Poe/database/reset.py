@@ -1,0 +1,68 @@
+from pathlib import Path
+import sys
+
+# Allow running this file directly from any working directory
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+if str(PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(PROJECT_ROOT))
+
+import pandas as pd
+from sqlalchemy import text
+from sqlalchemy.orm import Session
+
+from core.security import hash_password
+from database.db import engine
+from database.models import Base, Game, User
+
+
+CSV_PATH = Path(__file__).resolve().parent / "video_games_data.csv"
+
+
+def drop_and_create_db() -> None:
+    Base.metadata.drop_all(engine)
+    with engine.begin() as conn:
+        conn.execute(text("DROP INDEX IF EXISTS ix_games_console_genre"))
+        conn.execute(text("DROP TABLE IF EXISTS video_games"))
+    Base.metadata.create_all(engine)
+
+
+def populate_db() -> None:
+    data = pd.read_csv(CSV_PATH)
+    records = data.to_dict(orient="records")
+    game_rows = [Game(**{str(k): v for k, v in row.items()}) for row in records]
+
+    with Session(engine) as session:
+        session.add_all(game_rows)
+        session.commit()
+    
+    # create a fake user
+    fake_user = User(
+        username="fakeuser",
+        full_name="Fake User",
+        hashed_password=hash_password("password"),
+        disabled=False,
+        is_admin=False,
+    )
+    with Session(engine) as session:
+        session.add(fake_user)
+        session.commit()
+        
+    admin_user = User(
+        username="admin",
+        full_name="Admin User",
+        hashed_password=hash_password("adminpassword"),
+        disabled=False,
+        is_admin=True,
+    )
+    
+    with Session(engine) as session:
+        session.add(admin_user)
+        session.commit()
+
+def reset_db() -> None:
+    drop_and_create_db()
+    populate_db()
+
+
+if __name__ == "__main__":
+    reset_db()
