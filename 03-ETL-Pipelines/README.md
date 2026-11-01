@@ -1,0 +1,1 @@
+This project will walk you through a full ETL (extract, transform, load) project.
